@@ -100,6 +100,6 @@ This project is **open-source** and available under the **MIT License**. Feel fr
 ---
 
 ### 📧 Contact
-For any questions or collaborations, reach out via **[your.email@example.com](mailto:muthusingam539@gmail.com)** or visit the **[GitHub Repository]([https://github.com/your-repo-name](https://github.com/MUTHUSINGAM))**.
+For any questions or collaborations, reach out via **[muthusingam539@gmail.com](mailto:muthusingam539@gmail.com)** or visit the **[GitHub Repository]([https://github.com/your-repo-name](https://github.com/MUTHUSINGAM))**.
 
 
